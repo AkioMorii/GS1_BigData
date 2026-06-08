@@ -1,5 +1,10 @@
 # Global Solution - Pipeline de Dados Espaciais
 
+Orlando Akio Morii Cardoso RM98067
+Pedro Henrique Alves Guariente RM550301
+David de Medeiros Pacheco Junior RM551462
+Kaique Maia Reis Silva RM552112
+
 ## Tema do Projeto
 
 Monitoramento de Asteroides Próximos da Terra utilizando a NASA NEO API (Near Earth Objects).
